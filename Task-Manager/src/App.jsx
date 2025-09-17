@@ -1,6 +1,6 @@
 import Bar from "./Bar"
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import ProfilePage from "./Profilepage";
+import ProfilePage from "./ProfilePage";
 import HomePage from "./HomePage";
 import TaskPage from "./TaskPage";
 import { TaskProvider } from "./TaskContext";
